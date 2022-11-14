@@ -4,12 +4,8 @@ Create a class named StreamInfo inside of the stream package. StreamInfo class s
 uName, uAccountNo, ubalance and numberOfMovie instance varaiables. Your client wants to
 keep ubalance and numberOfMovie private. There should be some methods to get and
 set(parameterized) the values of those private variables. StreamInfo does also have a constructor
-with four parameters to initialize the instance variables. StreamInfo also have few methods
-
-updateUAccountNo and updateName() (parameterized). There should be also a non-
-parameterized watchMovie() method which will reduce the balance by 50 and increase the
-
-numberOfMovie by 1 once it gets called. 
+with four parameters to initialize the instance variables. StreamInfo also have few methods updateUAccountNo and updateName() (parameterized).
+There should be also a non-parameterized watchMovie() method which will reduce the balance by 50 and increase the numberOfMovie by 1 once it gets called. 
 
 Create another class named StreamInfoV2 that inherits/extends the StreamInfo class.
 StreamInfoV2 also have the non-parameterized watchMovie () method which will reduce the
