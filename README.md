@@ -9,8 +9,7 @@ with four parameters to initialize the instance variables. StreamInfo also have 
 updateUAccountNo and updateName() (parameterized). There should be also a non-
 parameterized watchMovie() method which will reduce the balance by 50 and increase the
 
-numberOfMovie by 1 once it gets called. [5]
-
+numberOfMovie by 1 once it gets called. 
 
 Create another class named StreamInfoV2 that inherits/extends the StreamInfo class.
 StreamInfoV2 also have the non-parameterized watchMovie () method which will reduce the
